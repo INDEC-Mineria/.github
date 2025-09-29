@@ -1,4 +1,4 @@
-## Codigos para colaboradores de la Direcciòn de estadisticas Mineras, Manufactureras, Energeticas y de la Construcciòn.
+## Códigos para colaboradores de la Direcciòn de estadísticas Mineras, Manufactureras, Energéticas y de la Construcciòn.
 
 
 
